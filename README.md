@@ -1,6 +1,6 @@
 Analyzed demographic data from a dataset  that was extracted from the 1994 Census database using pandas
 
-You must use Pandas to answer the following questions:
+Pandas is used to answer the following questions:
 
 1. How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 2. What is the average age of men?
